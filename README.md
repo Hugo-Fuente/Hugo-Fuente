@@ -1,4 +1,6 @@
-### Hi there 👋
+Welcome to my github profile!
+🌱 I'm Hugo, a student of information systems at the Brazilian college Unicamp.
+🤔 I don't have a lot of code here yet, most of them I forgot to upload on git hahah but I hope to use this platform a lot more soon!
 
 <!--
 **Hugo-Fuente/Hugo-Fuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+        
+        
+        
+        
+        
+      
