@@ -5,7 +5,8 @@
   </samp>
 </p>
 
-* <b>Email:</b> hugo.fuente@yahoo.com
+* <b>Gender:</b> male
+* <b>Age:</b> 21
 * <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload on git :sweat_smile:, but I hope to use this platform a lot more soon!
 
 <details align="center">
