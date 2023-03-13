@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hi there! I am <b>Hugo de La Fuente</b> :vulcan_salute:</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Graduating in Information Systems :owl: <b>Campinas University (Unicamp)</b> :brazil: 」<br>
+    「 Information Systems Bachelor :owl: <b>Campinas University (Unicamp)</b> 」<br>
   </samp>
 </p>
 
@@ -9,22 +9,30 @@
 * <b>Age:</b> 22
 * <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload on git :sweat_smile:, but I hope to use this platform a lot more soon!
 * <b>Languages:</b> 🇧🇷 🇪🇸 🇺🇸
-* <b>Follow me on:</b>
-<a href="https://www.linkedin.com/in/hugo-fuente/" target="_blank">
-<img align="center" alt="hugo-linkedin" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
-</a>
-<a href="https://www.facebook.com/hugomesfuente/" target="_blank">
-<img align="center" alt="hugo-facebook" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
-</a>
-<a href="https://www.instagram.com/hugomesfuente/" target="_blank">
-<img align="center" alt="hugo-instagram" heigh="30" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" style=max-width:100%;"> 
-</a>
-<a href="https://twitter.com/Zamiel_Payne" target="_blank">
-<img align="center" alt="hugo-twitter" heigh="30" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" style=max-width:100%;"> 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" heigh="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" heigh="40" style="max-width:100%;"></img>
+<!--
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="WampServer" width="40" heigh="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" heigh="30" style="max-width:100%;"></img>
+-->
+
+<!--
+  
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
+-->
+  
 <!--
 Para quando eu tiver repositórios de diferentes linguagens:
      <br>
@@ -36,9 +44,12 @@ Para quando eu tiver repositórios de diferentes linguagens:
       <a href="https://github.com/kevinjycui?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
       <a href="https://github.com/kevinjycui?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
--->    
+-->
+  
+<!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Fuente&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
 </details>
+-->
 
 <!--
 ### Favorite IDE's
@@ -47,23 +58,23 @@ Para quando eu tiver repositórios de diferentes linguagens:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Netbeans" width="40" heigh="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" heigh="30" style="max-width:100%;"></img>
 -->
+</div>
+  
+  ##
+ 
+<div> 
 
-### My Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" heigh="30" style="max-width:100%;"></img>
-<!--
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="WampServer" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" heigh="30" style="max-width:100%;"></img>
--->
+<a href="https://www.instagram.com/hugomesfuente/" target="_blank">
+<img align="right" alt="hugo-instagram" heigh="40" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" style=max-width:100%;"> 
+</a>
+<a href="https://www.facebook.com/hugomesfuente/" target="_blank">
+<img align="right" alt="hugo-facebook" heigh="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
+</a>
+<a href="https://twitter.com/Zamiel_Payne" target="_blank">
+<img align="right" alt="hugo-twitter" heigh="40" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" style=max-width:100%;"> 
+</a>
+<a href="https://www.linkedin.com/in/hugo-fuente/" target="_blank">
+<img align="right" alt="hugo-linkedin" heigh="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
 
 <!--
 ### Connect with me!
@@ -90,14 +101,6 @@ Para quando eu tiver repositórios de diferentes linguagens:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" heigh="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" heigh="30" style="max-width:100%;"></img>
 -->
-
-<br>
-<samp>
-  <p align="center">
-    ════ ⋆★⋆ ════<br>
-    Based on <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui's</a> markdown
-  </p>
-</samp>
 
 <!--
 **Hugo-Fuente/Hugo-Fuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
