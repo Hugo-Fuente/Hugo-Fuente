@@ -7,7 +7,7 @@
 
 * <b>Gender:</b> male
 * <b>Age:</b> 22
-* <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload on git :sweat_smile:, but I hope to use this platform a lot more soon!
+* <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload here :sweat_smile:, but I hope to use this platform a lot more soon!
 * <b>Languages:</b> 🇧🇷 🇪🇸 🇺🇸
 
 <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" heigh="40" style="max-width:100%;"></img>
