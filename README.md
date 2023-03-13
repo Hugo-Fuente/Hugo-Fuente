@@ -1,5 +1,5 @@
 <h3 align="center"><samp>Hi there! I am <b>Hugo de La Fuente</b> :vulcan_salute:</samp></h3>
-<p align="center"><br>
+<p align="center">
   <samp>
     「 Information Systems Bachelor :owl: <b>Campinas University (Unicamp)</b> 」<br>
   </samp>
@@ -10,7 +10,7 @@
 * <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload on git :sweat_smile:, but I hope to use this platform a lot more soon!
 * <b>Languages:</b> 🇧🇷 🇪🇸 🇺🇸
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" heigh="40" style="max-width:100%;"></img>
+<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" heigh="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" heigh="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" heigh="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" heigh="40" style="max-width:100%;"></img>
