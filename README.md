@@ -6,7 +6,7 @@
 </p>
 
 * <b>Gender:</b> male
-* <b>Age:</b> 22
+* <b>Age:</b> 25
 * <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload here :sweat_smile:, but I hope to use this platform a lot more soon!
 * <b>Languages:</b> 🇧🇷 🇪🇸 🇺🇸
 
