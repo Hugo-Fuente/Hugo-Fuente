@@ -79,8 +79,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <a href="https://www.facebook.com/hugomesfuente/" target="_blank">
 <img align="right" alt="hugo-facebook" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
 </a>
-<a href="https://twitter.com/Zamiel_Payne" target="_blank">
-<img align="right" alt="hugo-twitter" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" style=max-width:100%;"> 
 </a>
 <a href="https://www.linkedin.com/in/hugo-fuente/" target="_blank">
 <img align="right" alt="hugo-linkedin" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
