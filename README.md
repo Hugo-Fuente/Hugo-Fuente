@@ -1,29 +1,28 @@
 <h3 align="center"><samp>Hi there! I am <b>Hugo de La Fuente</b> :vulcan_salute:</samp></h3>
 <p align="center">
   <samp>
-    「 Information Systems Bachelor :owl: <b>Campinas University (Unicamp)</b> 」<br>
+    「 Information Systems Student :owl: <b>Campinas University (Unicamp)</b> 」<br>
+    Backend, Databases & DevOps Enthusiast
   </samp>
 </p>
 
-* <b>Gender:</b> male
-* <b>Age:</b> 25
-* <b>About me:</b> I don't have a lot of code here yet, most of them I forgot to upload here :sweat_smile:, but I hope to use this platform a lot more soon!
+* <b>About me:</b> Passionate about infrastructure, database modeling, and solving backend challenges. Currently deepening my knowledge in automation with Python, DevOps practices, and security. I have a strong foundation from Unicamp, a fast learning pace, and I'm actively looking for an internship or Junior role!
 * <b>Languages:</b> 🇧🇷 🇪🇸 🇺🇸
 
-<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" heigh="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" heigh="40" style="max-width:100%;"></img>
+<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" style="max-width:100%;"></img>
 <!--
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="WampServer" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" heigh="30" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="WampServer" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" style="max-width:100%;"></img>
 -->
 
 <!--
@@ -56,10 +55,10 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 
 <!--
 ### Favorite IDE's
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Netbeans" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" heigh="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Netbeans" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" style="max-width:100%;"></img>
 -->
 </div>
   
@@ -68,16 +67,16 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <div> 
 
 <a href="https://www.instagram.com/hugomesfuente/" target="_blank">
-<img align="right" alt="hugo-instagram" heigh="40" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" style=max-width:100%;"> 
+<img align="right" alt="hugo-instagram" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" style=max-width:100%;"> 
 </a>
 <a href="https://www.facebook.com/hugomesfuente/" target="_blank">
-<img align="right" alt="hugo-facebook" heigh="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
+<img align="right" alt="hugo-facebook" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
 </a>
 <a href="https://twitter.com/Zamiel_Payne" target="_blank">
-<img align="right" alt="hugo-twitter" heigh="40" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" style=max-width:100%;"> 
+<img align="right" alt="hugo-twitter" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" style=max-width:100%;"> 
 </a>
 <a href="https://www.linkedin.com/in/hugo-fuente/" target="_blank">
-<img align="right" alt="hugo-linkedin" heigh="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
+<img align="right" alt="hugo-linkedin" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
 
 <!--
 ### Connect with me!
@@ -88,21 +87,21 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <!--
 ### Starting to Learn
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" heigh="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" style="max-width:100%;"></img>
 -->
 
 <!--
 #### Operational Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows, obviously" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" heigh="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows, obviously" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" style="max-width:100%;"></img>
 & WSL2 on Windows Terminal
 -->
 
 <!--
 ### Temporarily dropped
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" heigh="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" heigh="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"style="max-width:100%;"></img>
 -->
 
 <!--
