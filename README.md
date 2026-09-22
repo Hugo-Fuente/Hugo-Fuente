@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-* <b>About me:</b> Passionate about infrastructure, database modeling, and solving backend challenges. Currently deepening my knowledge in automation with Python, DevOps practices, and security. I have a strong foundation from Unicamp, a fast learning pace, and I'm actively looking for an internship or Junior role!
+* <b>About me:</b> Passionate about infrastructure, database modeling, and solving backend challenges. Currently deepening my knowledge in automation with Python, DevOps practices, and security. I have a strong foundation from Unicamp, a fast learning pace, and I'm actively looking for an internship or Junior role!!
 * <b>Languages:</b> 🇧🇷 🇪🇸 🇺🇸
 
 <br>
