@@ -27,6 +27,50 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" style="max-width:100%;"></img>
 
+</div>
+
+  ##
+  
+<div> 
+  
+<a href="https://www.instagram.com/hugomesfuente/" target="_blank">
+<img align="right" alt="hugo-instagram" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" style=max-width:100%;"> 
+</a>
+<a href="https://www.facebook.com/hugomesfuente/" target="_blank">
+<img align="right" alt="hugo-facebook" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
+</a>
+</a>
+<a href="https://www.linkedin.com/in/hugo-fuente/" target="_blank">
+<img align="right" alt="hugo-linkedin" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
+
+<sub>🎨 Profile picture illustration by <a href="https://instagram.com/oliver_hamlin/"><sub>Oliver Hamlin</sub></a></sub>
+
+<!--
+### Connect with me!
+
+</a>
+-->
+
+<!--
+### Starting to Learn
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" style="max-width:100%;"></img>
+-->
+
+<!--
+#### Operational Systems
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows, obviously" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" style="max-width:100%;"></img>
+& WSL2 on Windows Terminal
+-->
+
+<!--
+### Temporarily dropped
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"style="max-width:100%;"></img>
+-->
+
 <!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="WampServer" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" style="max-width:100%;"></img>
@@ -67,47 +111,3 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Netbeans" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" style="max-width:100%;"></img>
 -->
-</div>
-  
-  ##
- 
-<div> 
-
-<a href="https://www.instagram.com/hugomesfuente/" target="_blank">
-<img align="right" alt="hugo-instagram" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" style=max-width:100%;"> 
-</a>
-<a href="https://www.facebook.com/hugomesfuente/" target="_blank">
-<img align="right" alt="hugo-facebook" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style=max-width:100%;"> 
-</a>
-</a>
-<a href="https://www.linkedin.com/in/hugo-fuente/" target="_blank">
-<img align="right" alt="hugo-linkedin" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style=max-width:100%;"> 
-
-<!--
-### Connect with me!
-
-</a>
--->
-
-<!--
-### Starting to Learn
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" style="max-width:100%;"></img>
--->
-
-<!--
-#### Operational Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows, obviously" width="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" style="max-width:100%;"></img>
-& WSL2 on Windows Terminal
--->
-
-<!--
-### Temporarily dropped
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"style="max-width:100%;"></img>
--->
-
----
-<sub>🎨 Profile picture illustration by <a href="instagram.com/oliver_hamlin/"><sub>Oliver Hamlin</sub></a></sub>
