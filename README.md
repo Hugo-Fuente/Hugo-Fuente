@@ -109,21 +109,13 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"style="max-width:100%;"></img>
 -->
 
-<!--
-**Hugo-Fuente/Hugo-Fuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left">
-  <small>🎨 Profile picture illustration by <a href="instagram.com/oliver_hamlin/">Oliver Hamlin</a></small>
-</p>
+<table width="100%" style="border: none; background: none;">
+  <tr style="border: none; background: none;">
+    <td align="left" style="border: none;">
+      <sub>🎨 Profile picture illustration by <a href="LINK_DO_ARTISTA">Oliver Hamlin</a></sub>
+    </td>
+    <td align="right" style="border: none;">
+      <!-- COLE OS CÓDIGOS DOS SEUS ÍCONES DO LINKEDIN, FACEBOOK E INSTAGRAM AQUI -->
+    </td>
+  </tr>
+</table>
