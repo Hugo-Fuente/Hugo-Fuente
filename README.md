@@ -109,13 +109,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"style="max-width:100%;"></img>
 -->
 
-<table width="100%" style="border: none; background: none;">
-  <tr style="border: none; background: none;">
-    <td align="left" style="border: none;">
-      <sub>🎨 Profile picture illustration by <a href="LINK_DO_ARTISTA">Oliver Hamlin</a></sub>
-    </td>
-    <td align="right" style="border: none;">
-      <!-- COLE OS CÓDIGOS DOS SEUS ÍCONES DO LINKEDIN, FACEBOOK E INSTAGRAM AQUI -->
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <sub>🎨 Profile picture illustration by <a href="LINK_DO_ARTISTA">Oliver Hamlin</a></sub>
+</div>
