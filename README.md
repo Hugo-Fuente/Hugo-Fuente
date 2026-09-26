@@ -124,13 +124,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
   <small>🎨 Profile picture illustration by <a href="instagram.com/oliver_hamlin/">Oliver Hamlin</a></small>
 </p>
- 
-        
-        
-        
-        
-        
-      
