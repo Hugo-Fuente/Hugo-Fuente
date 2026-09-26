@@ -109,6 +109,5 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"style="max-width:100%;"></img>
 -->
 
-<div align="left">
-  <sub>🎨 Profile picture illustration by <a href="LINK_DO_ARTISTA">Oliver Hamlin</a></sub>
-</div>
+---
+<sub>🎨 Profile picture illustration by <a href="instagram.com/oliver_hamlin/"><sub>Oliver Hamlin</sub></a></sub>
